@@ -1,0 +1,13 @@
+insertathead(head,tail,101);
+    cout<<endl;
+    print(head);
+    cout<<endl;
+    insertattail(head,tail,501);
+    cout<<endl;
+    print(head);
+    cout<<endl;
+    insertatposition(head,tail,401,1);
+    cout<<endl;
+    print(head);
+    cout<<endl;
+    deletefromposi(head,tail,1);
